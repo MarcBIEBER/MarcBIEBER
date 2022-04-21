@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MarcBIEBER&label=Profile%20views&color=073755&style=plastic" alt="MarcBIEBER" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MarcBIEBER&label=Profile%20views&color=073755&style=for-the-badge" alt="MarcBIEBER" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MarcBIEBER&column=3&theme=darkhub&no-frame=true" alt="MarcBIEBER" /></a> </p>
 
