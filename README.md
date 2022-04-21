@@ -1,5 +1,3 @@
-### Hi there 👋
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarcBIEBER&label=Profile%20views&color=073755&style=for-the-badge" alt="MarcBIEBER" /> </p>
 
